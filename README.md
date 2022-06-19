@@ -11,7 +11,7 @@ This is a project for the subject SWEN20003 Object Oriented Software Development
 ## Game UI
 • The sailor is controlled to move by using up-down-left-right keys. 
 <br>
-• The sailor can hit the pirates, which causes the pirates to lose health points. 
+• The sailor can hit the pirates to cause health loss for the pirates.
 <br>
 • The pirates can fire projectiles to cause health loss for the sailor.
 <br>
@@ -22,7 +22,7 @@ This is a project for the subject SWEN20003 Object Oriented Software Development
 
 ### Level 1
 
-• For level 1, the sailor can pickup the items to boost health or damage points.
+• For level 1, the sailor can pick up the items to boost health or damage points.
 <br>
 • Player wins the game if the sailor can reach the treasure.
 
