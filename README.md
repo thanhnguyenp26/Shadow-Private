@@ -22,4 +22,4 @@ This is a project for the subject SWEN20003 Object Oriented Software Development
 
 ### Level 1
 
-<img width="601" alt="Screen Shot 2022-06-19 at 11 56 51 am" src="https://user-images.githubusercontent.com/62505313/174462730-c3187619-a2bd-4817-b7b8-db21501b8fd6.png">
+<img width="603" alt="Screen Shot 2022-06-19 at 11 56 51 am" src="https://user-images.githubusercontent.com/62505313/174462730-c3187619-a2bd-4817-b7b8-db21501b8fd6.png">
