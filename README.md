@@ -15,14 +15,15 @@ This is a project for the subject SWEN20003 Object Oriented Software Development
 <br>
 • The pirates can fire projectiles to cause health loss for the sailor.
 <br>
-• For level 1, the sailor can pickup the items to boost health or damage points.
-<br>
-• Player wins the game if the sailor can reach the treasure 
 
 ### Level 0
 
 <img width="603" alt="Screen Shot 2022-06-19 at 11 56 44 am" src="https://user-images.githubusercontent.com/62505313/174462722-c3f6cfb3-41c7-4e08-92dd-e573590afac2.png">
 
 ### Level 1
+
+• For level 1, the sailor can pickup the items to boost health or damage points.
+<br>
+• Player wins the game if the sailor can reach the treasure.
 
 <img width="603" alt="Screen Shot 2022-06-19 at 11 56 51 am" src="https://user-images.githubusercontent.com/62505313/174462730-c3187619-a2bd-4817-b7b8-db21501b8fd6.png">
