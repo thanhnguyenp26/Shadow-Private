@@ -14,7 +14,10 @@ This is a project for the subject SWEN20003 Object Oriented Software Development
 • The sailor can hit the pirates, which causes the pirates to lose health points. 
 <br>
 • The pirates can fire projectiles to cause health loss for the sailor.
+<br>
 • For level 1, the sailor can pickup the items to boost health or damage points.
+<br>
+• Player wins the game if the sailor can reach the treasure 
 
 ### Level 0
 
